@@ -44,6 +44,18 @@ variety of topics ranging from quantum chemistry to machine learning.
 [The RDKit Blog](http://rdkit.blogspot.com/)  
 Greg Landrum is the primary contributor to, and BDFL, of the RDKit. In
 addition to the latest and greatest features in the RDKit, Greg's posts also touch on a number of key issues in
-Cheminformatics, such as dealing with unbalanced datasets and the impact of fingerprint folding on similarity searching. 
+Cheminformatics, such as dealing with unbalanced datasets and the impact of fingerprint folding on similarity searching.
 
+### Tutorials
 
+[Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials)  
+This is a collection of Jupyter notebooks that I put together to demonstrate various aspects of cheminformatics and
+machine learning. The notebooks demonstrate a range of topics from cheminformatics basics to more advanced
+machine learning. The tutorials all use open source software and can run on Google Colab without installing software
+locally. .    
+
+[TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD)  
+A great set of tutorials from Andrea Volkamer's group that use Open Source software to teach Computer-Aided Drug Design concepts including molecular similarity, applications of machine learning, and pharmacophore analysis. 
+
+[The RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)  
+A terrific resource that provides "recipes" for a number of common tasks. 

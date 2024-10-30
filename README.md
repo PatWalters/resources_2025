@@ -3,7 +3,7 @@
 ### Datasets
 
 [OpenADMET](https://openadmet.org)  
-The OpenADMET project seeks to proactively characterizing the chemical space accessible to
+The OpenADMET project seeks to proactively characterize the chemical space accessible to
 ADMET-associated proteins (“anti-targets”). By applying recent advances in experimental and computational techniques, a
 comprehensive open library of experimental and structural datasets will be generated.
 

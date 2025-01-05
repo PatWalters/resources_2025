@@ -1,4 +1,4 @@
-## Machine Learning in Drug Discovery Resources 2024
+## Machine Learning in Drug Discovery Resources 2025
 
 ### Datasets
 
@@ -32,6 +32,9 @@ Eric's blog provides an excellent introduction to the application of cutting edg
 [Charlie’s Substack](https://harrisbio.substack.com/)
 Charlie Harris writes about applications of AI in drug discovery.
 Most recently, his posts have focused on efforts to reproduce AlphaFold3.
+
+[Jon Swain's Blog](https://jonswain.github.io/)
+Jon Swain, a second generation Cheinformatics blogger, has great set of Jupyter notebooks demonstrating key concepts. 
 
 [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/)
 This is a blog where I post once a month

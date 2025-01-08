@@ -55,6 +55,9 @@ Greg Landrum is the primary contributor to, and BDFL, of the RDKit. In
 addition to the latest and greatest features in the RDKit, Greg's posts also touch on a number of key issues in
 Cheminformatics, such as dealing with unbalanced datasets and the impact of fingerprint folding on similarity searching.
 
+[Models to molecules](https://driesvr.github.io/)
+A new blog by Dries Van Rompaey that seems to be off to a great start. 
+
 ### Tutorials
 
 [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials)
@@ -68,3 +71,6 @@ A great set of tutorials from Andrea Volkamer's group that use Open Source softw
 
 [The RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
 A terrific resource that provides "recipes" for a number of common tasks.
+
+[Vina Colab Tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html)
+A set of tutorials showing how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab. 

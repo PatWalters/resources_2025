@@ -21,13 +21,15 @@ datasets & benchmarks.
 PLINDER is an academic-industry collaboration to address this, driven by VantAI, NVIDIA, the Computational Structural
 Biology group at the University of Basel & SIB Swiss Institute of Bioinformatics - co-organizers of CASP, and MIT.
 PLINDER aims to provide a gold standard dataset and evaluations to push the field of computational protein-ligand
-interactions
-prediction forward.
+interactions prediction forward.
 
 ### Blogs
 
 [Eric J Ma's Website](https://ericmjl.github.io/)
 Eric's blog provides an excellent introduction to the application of cutting edge informatics in drug discovery.
+
+[Oxford Protein Informatics Group (OPIG)](https://www.blopig.com/blog)
+This blog contains a lot of great [Bio|Chem]informatics content, chock full of code. 
 
 [Charlie’s Substack](https://harrisbio.substack.com/)
 Charlie Harris writes about applications of AI in drug discovery.

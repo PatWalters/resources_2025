@@ -2,31 +2,26 @@
 
 ### Datasets
 
-You'll notice the conspicuous absence of two widely used datasets, [MoleculeNet](https://moleculenet.org/) and the 
-[Therapeutic Data Commons](https://tdcommons.ai/) from this list.  Both of these datasets are highly flawed and should not be used.
-For more on why, please look at this 
-[blog post](https://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html). 
+You'll notice the conspicuous absence of two widely used datasets, [MoleculeNet](https://moleculenet.org/) and the [Therapeutic Data Commons (TDC)]
+(https://tdcommons.ai/) from this list.  Both of these datasets are highly flawed and should not be used.  For more on the reasons why, please
+consult this [blog post](https://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html). 
 
-[OpenADMET](https://openadmet.org)
-The OpenADMET project seeks to proactively characterize the chemical space accessible to
+[OpenADMET](https://openadmet.org) seeks to proactively characterize the chemical space accessible to
 ADMET-associated proteins (“anti-targets”). By applying recent advances in experimental and computational techniques, a
 comprehensive open library of experimental and structural datasets will be generated. It's early days for OpenADMET, but
 knowing the folks involved, I'm highly optimistic. 
 
-[AIRCHECK](https://aircheck.ai)
-AIRCHECK is a platform that provides access to a large collection of high-quality datasets for drug discovery and
+[AIRCHECK](https://aircheck.ai) is a platform that provides access to a large collection of high-quality datasets for drug discovery and
 development. The datasets are curated from various sources and are available in a standardized format. The current
 focus appears to be on DNA encoded library (DEL) data.
 
-[Polaris](https://polarishub.io)
-Polaris aims to improve the state of benchmarking so ML can have a greater impact on real-world drug discovery
+[Polaris](https://polarishub.io) aims is to improve the state of benchmarking so ML can have a greater impact on real-world drug discovery
 scenarios. To start, Polaris hopes to provide a single source of truth that aggregates and provides simple access to
 datasets & benchmarks.
 
-[PLINDER](https://plinder.sh)
-PLINDER is an academic-industry collaboration to collect and organize protein-ligand interaction data. The effort is
+[PLINDER](https://plinder.sh) is an academic-industry collaboration to collect and organize protein-ligand interaction data. The effort is
 driven by VantAI, NVIDIA, the Computational Structural Biology group at the University of Basel & SIB Swiss Institute
-of Bioinformatics - co-organizers of CASP, and MIT. PLINDER aims to provide a gold standard dataset and evaluations
+of Bioinformatics (co-organizers of CASP), and MIT. PLINDER aims to provide a gold standard dataset and evaluations
 to push the field of computational protein-ligand interactions prediction forward.
 
 ### Blogs

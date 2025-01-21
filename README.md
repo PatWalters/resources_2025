@@ -19,7 +19,7 @@ development. The datasets are curated from various sources and are available in 
 focus appears to be on DNA encoded library (DEL) data.
 
 [Polaris](https://polarishub.io)
-Polaris aims is to improve the state of benchmarking so ML can have a greater impact on real-world drug discovery
+Polaris aims to improve the state of benchmarking so ML can have a greater impact on real-world drug discovery
 scenarios. To start, Polaris hopes to provide a single source of truth that aggregates and provides simple access to
 datasets & benchmarks.
 

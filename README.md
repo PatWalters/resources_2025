@@ -2,10 +2,15 @@
 
 ### Datasets
 
+You'll notice the conspicuous absence of two widely used datasets, [MoleculeNet](https://moleculenet.org/) and the [Therapeutic Data Commons (TDC)]
+(https://tdcommons.ai/) from this list.  Both of these datasets are highly flawed and should not be used.  For more on the reasons why, please
+consult this [blog post](https://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html). 
+
 [OpenADMET](https://openadmet.org)
 The OpenADMET project seeks to proactively characterize the chemical space accessible to
 ADMET-associated proteins (“anti-targets”). By applying recent advances in experimental and computational techniques, a
-comprehensive open library of experimental and structural datasets will be generated.
+comprehensive open library of experimental and structural datasets will be generated. It's early days for OpenADMET, but
+knowing the folks involved, I'm highly optimistic. 
 
 [AIRCHECK](https://aircheck.ai)
 AIRCHECK is a platform that provides access to a large collection of high-quality datasets for drug discovery and
@@ -18,10 +23,10 @@ scenarios. To start, Polaris hopes to provide a single source of truth that aggr
 datasets & benchmarks.
 
 [PLINDER](https://plinder.sh)
-PLINDER is an academic-industry collaboration to address this, driven by VantAI, NVIDIA, the Computational Structural
-Biology group at the University of Basel & SIB Swiss Institute of Bioinformatics - co-organizers of CASP, and MIT.
-PLINDER aims to provide a gold standard dataset and evaluations to push the field of computational protein-ligand
-interactions prediction forward.
+PLINDER is an academic-industry collaboration to collect and organize protein-ligand interaction data. The effort is
+driven by VantAI, NVIDIA, the Computational Structural Biology group at the University of Basel & SIB Swiss Institute
+of Bioinformatics - co-organizers of CASP, and MIT. PLINDER aims to provide a gold standard dataset and evaluations
+to push the field of computational protein-ligand interactions prediction forward.
 
 ### Blogs
 
@@ -32,8 +37,8 @@ Eric's blog provides an excellent introduction to the application of cutting edg
 This blog contains a lot of great [Bio|Chem]informatics content, chock full of code. 
 
 [Charlie’s Substack](https://harrisbio.substack.com/)
-Charlie Harris writes about applications of AI in drug discovery.
-Most recently, his posts have focused on efforts to reproduce AlphaFold3.
+Charlie Harris writes about applications of AI in drug discovery. Most recently, his posts have focused on efforts
+to reproduce AlphaFold3.
 
 [Mogan Thomas' Cheminformatics Blog](https://cheminformantics.blogspot.com/)
 This one is new, but based on the first post, it looks promising. 
@@ -42,10 +47,9 @@ This one is new, but based on the first post, it looks promising.
 Jon Swain, a second generation Cheinformatics blogger, has great set of Jupyter notebooks demonstrating key concepts. 
 
 [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/)
-This is a blog where I post once a month
-or so. These posts typically contain code that demonstrates various aspects of cheminformatics; clustering, machine
-learning, data visualization, etc. I occasionally throw in posts containing opinions on things like AI and getting a
-job.
+This is a blog where I post once a month or so. These posts typically contain code that demonstrates various aspects
+of cheminformatics; clustering, machine learning, data visualization, etc. I occasionally throw in posts containing
+opinions on things like AI and getting a job.
 
 [Is Life Worth Living](https://iwatobipen.wordpress.com/)
 A great blog from Iwatobipen (aka pen), whose posts are

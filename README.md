@@ -2,9 +2,10 @@
 
 ### Datasets
 
-You'll notice the conspicuous absence of two widely used datasets, [MoleculeNet](https://moleculenet.org/) and the [Therapeutic Data Commons (TDC)]
-(https://tdcommons.ai/) from this list.  Both of these datasets are highly flawed and should not be used.  For more on why, please
-take a look at this [blog post](https://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html). 
+You'll notice the conspicuous absence of two widely used datasets, [MoleculeNet](https://moleculenet.org/) and the 
+[Therapeutic Data Commons](https://tdcommons.ai/) from this list.  Both of these datasets are highly flawed and should not be used.  
+For more on why, please look at this 
+[blog post](https://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html). 
 
 [OpenADMET](https://openadmet.org)
 The OpenADMET project seeks to proactively characterize the chemical space accessible to

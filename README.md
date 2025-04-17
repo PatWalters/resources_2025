@@ -3,7 +3,7 @@
 ### Books
 
 [Drug Design: From Structure and Mode-of-Action to Rational Design Concepts](https://www.amazon.com/Drug-Design-Structure-Mode-Action/dp/3662689979)
-As cheminformatics practicioners, we need to understand the drug design process.  This book, written by Prof. Gerhard Klebe, a pioneer in the field, provides an excellent overview to numerous drug desing approaches.
+As cheminformatics practicioners, we need to understand the drug design process.  This book, written by Prof. Gerhard Klebe, a pioneer in the field, provides an excellent overview to numerous drug design approaches.
 
 [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X)
 Programming and data science are critcal elements of cheminformatics.  This book, written by Wes McKinney, the author of the widely used Pandas library, provides a great starting point for learning Python and applying it data science.

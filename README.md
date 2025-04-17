@@ -6,7 +6,7 @@
 As cheminformatics practicioners, we need to understand the drug design process.  This book, written by Prof. Gerhard Klebe, a pioneer in the field, provides an excellent overview to numerous drug design approaches.
 
 [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X)
-Programming and data science are critcal elements of cheminformatics.  This book, written by Wes McKinney, the author of the widely used Pandas library, provides a great starting point for learning Python and applying it data science.
+Programming and data science are critcal elements of cheminformatics.  This book, written by Wes McKinney, the author of the widely used Pandas library, provides a great starting point for learning Python and applying it in data science.
 
 [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/) This book provides another great introduction to data science. It provides an introduction to several critical topics including Python, Statistics, Probability, Machine Learning, Clustering, and Databases
 

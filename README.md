@@ -1,5 +1,23 @@
 ## Machine Learning in Drug Discovery Resources 2025
 
+### Books
+
+[Drug Design: From Structure and Mode-of-Action to Rational Design Concepts](https://www.amazon.com/Drug-Design-Structure-Mode-Action/dp/3662689979)
+As cheminformatics practicioners, we need to understand the drug design process.  This book, written by Prof. Gerhard Klebe, a pioneer in the field, provides an excellent overview to numerous drug desing approaches.
+
+[Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X)
+Programming and data science are critcal elements of cheminformatics.  This book, written by Wes McKinney, the author of the widely used Pandas library, provides a great starting point for learning Python and applying it data science.
+
+[Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/) This book provides another great introduction to data science. It provides an introduction to several critical topics including Python, Statistics, Probability, Machine Learning, Clustering, and Databases
+
+[Statistics in a Nutshell: A Desktop Quick Reference](https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/)
+[Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319/)
+To effectively apply cheminformatics, one needs a solid grasp of statistics.  This book provides a good overview with code examples.
+
+[Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319/)
+Machine learning (ML) has become an integral component on cheminformatics.  This book provides a fantastic introduction to more traditional ML approaches as well as recent advances in deep learning.
+
+
 ### Datasets
 
 You'll notice the conspicuous absence of two widely used datasets, [MoleculeNet](https://moleculenet.org/) and the [Therapeutic Data Commons (TDC)](https://tdcommons.ai/) from this list.  Both of these datasets are highly flawed and should not be used.  For more on the reasons why, please
@@ -74,4 +92,5 @@ A great set of tutorials from Andrea Volkamer's group that use Open Source softw
 A terrific resource that provides "recipes" for a number of common tasks.
 
 [Vina Colab Tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html)
-A set of tutorials showing how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab. 
+A set of tutorials showing how to run Autodock Vina, and the associated protein and ligand setup utilities on Google Colab.
+

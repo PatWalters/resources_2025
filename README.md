@@ -93,3 +93,5 @@ A terrific resource that provides "recipes" for a number of common tasks.
 [Vina Colab Tutorials](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html)
 A tutorial set shows how to run Autodock Vina and the associated protein and ligand setup utilities on Google Colab.
 
+[GNNs for Chemists](https://github.com/HFooladi/GNNs-For-Chemists)
+A great introduction to graph neural networks (GNNs) by Hosein Fooladi.
